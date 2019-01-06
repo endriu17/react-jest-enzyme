@@ -1,4 +1,4 @@
-## Unit test
+# Unit tests
 
 **React, Jest, Enzyme**
 
