@@ -35,7 +35,7 @@ onPlayerAdd = (playerName) => {
 
 onPlayerRemove = (playerIndex) => {
   this.setState({
-    players: this.state.players.filter(index => index !== playerIndex)
+    players: this.state.players.filter( (__,index) => index !== playerIndex)
   });
 };
 
