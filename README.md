@@ -2,6 +2,8 @@
 
 ## React, Jest, Enzyme
 
+Site [preview](https://nervous-euclid-1f515f.netlify.com/)
+
 ## In the project directory, you can run:
 
 ### `npm start`
